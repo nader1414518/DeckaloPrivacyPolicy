@@ -1,6 +1,6 @@
 # Privacy Policy for Deckalo
 
-**Last updated: 5 October 2026**
+**Last updated: 8 October 2026**
 
 Level-Up Developer ("we", "us") built the Deckalo app (the "App"), a free app with in-app subscriptions that turns a prompt into an editable PowerPoint presentation. This policy explains what information the App and our server handle, why, and what choices you have. If you use the App, you agree to the practices described here.
 
@@ -20,7 +20,10 @@ Purchases are handled entirely by Apple (App Store) or Google (Google Play). We 
 **4. Server logs.**
 Like any internet service, our server automatically records technical data such as your IP address, the time of the request and the type of request, for security and to prevent abuse. These logs do not contain the text of your prompts. They are deleted automatically after about 14 days.
 
-**5. Your presentations.**
+**5. Pictures and videos for your slides.**
+Photos and videos you pick from your library, camera or Files, and icons, are added to your slide on your device. They are not uploaded to us. If you choose **stock photos**, the words you search for (or that the AI suggests for a slide) are sent to our server, which forwards only those words to the photo service Pexels; your device then downloads the chosen photo from Pexels' servers, so Pexels can see your IP address as for any download.
+
+**6. Your presentations.**
 Presentations you create or import are stored on your device only. We do not store them on our servers. If you import a .pptx file, it is read on your device and is not uploaded. If you export or share a file, it goes only where you choose to send it.
 
 ## How we use information
@@ -34,6 +37,7 @@ We do not sell your information. We do not use it for advertising, profiling or 
 
 ## Service providers who process information
 
+- **Photo service (Pexels).** Provides free stock photos. It receives only the search words from our server, and your device contacts it directly to download a photo you choose. See Pexels' privacy policy.
 - **AI provider (DeepSeek).** The text described in section 1 is processed by DeepSeek to produce the AI output. Our server sends it only the text, not your device ID, IP address or any other identifier. DeepSeek acts under its own privacy policy and may process data on servers outside your country, including in China.
 - **Hosting.** Our server is hosted with OVHcloud in Europe (Germany).
 - **Apple and Google.** They process purchases and subscriptions under their own privacy policies.
@@ -44,7 +48,7 @@ We have no other third-party SDKs for analytics, advertising or crash reporting 
 
 - Our server keeps a small usage record per random device ID (whether the free presentation was used, and daily request counts) for as long as needed to enforce the free-presentation and fair-use limits.
 - Server logs are kept for about 14 days.
-- We do not keep the text of your prompts. The AI provider may keep it according to its own policy.
+- We do not keep the text of your prompts or photo searches. The AI provider may keep prompts according to its own policy.
 - Presentations remain on your device until you delete them or delete the App.
 
 ## Your choices and rights
